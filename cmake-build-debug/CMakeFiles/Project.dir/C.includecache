@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Mabani/Project/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+slre.h
+E:/Mabani/Project/slre.h
+winsock2.h
+-
+string.h
+-
+windows.h
+-
+
+E:/Mabani/Project/slre.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+slre.h
+E:/Mabani/Project/slre.h
+
+E:/Mabani/Project/slre.h
+
